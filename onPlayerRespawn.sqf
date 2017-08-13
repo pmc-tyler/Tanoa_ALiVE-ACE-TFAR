@@ -1,0 +1,1 @@
+[] call PMCT_fnc_loadoutsExec;

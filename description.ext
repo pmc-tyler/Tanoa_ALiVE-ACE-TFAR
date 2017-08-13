@@ -1,0 +1,19 @@
+//--- Respawn
+respawn = BASE;
+respawnDelay = 1;
+respawnDialog = 1;
+disabledAI = 1;
+respawnButton = 1;
+respawnOnStart = 0;
+
+class Header
+{
+gameType = Coop;
+minPlayers = 1;
+maxPlayers = 60;
+};
+
+class CfgFunctions
+{
+#include "scripts\PMCT_Functions.hpp"
+};

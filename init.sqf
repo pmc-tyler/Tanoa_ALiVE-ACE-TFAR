@@ -1,0 +1,1 @@
+"respawn_west" setMarkerPosLocal [markerPos "respawn_west" select 0, markerPos "respawn_west" select 1, 54.229];
