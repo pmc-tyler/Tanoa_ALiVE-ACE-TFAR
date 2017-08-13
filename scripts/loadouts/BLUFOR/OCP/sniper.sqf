@@ -13,7 +13,7 @@ removeAllWeapons _unit;
 sleep 0.1;
 
 //add uniform
-_unit forceAddUniform "TFA_mcam";
+_unit forceAddUniform "TFA_mcam_rs";
 _unit addVest "TFA_PlateCarrierH_MCam";
 _unit addHeadgear "TFA_H_HelmetIA_mcam";
 _unit addBackpack "TFA_assault_Mcam";
