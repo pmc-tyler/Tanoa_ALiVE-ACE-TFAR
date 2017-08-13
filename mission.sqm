@@ -16,10 +16,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={3298.2178,29.258177,4400.3657};
-		dir[]={0.24477912,-0.14899045,0.95816344};
-		up[]={0.036901675,0.98880416,0.14444582};
-		aside[]={0.9689644,-3.0010415e-007,-0.24753818};
+		pos[]={3265.374,30.589115,4401.6333};
+		dir[]={0.95966721,-0.18716902,-0.21024947};
+		up[]={0.18291286,0.98229158,-0.040074479};
+		aside[]={-0.21402864,-3.9767474e-007,-0.97691631};
 	};
 };
 binarizationWanted=0;
@@ -5378,7 +5378,7 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={3305.9866,28.482109,4415.7422};
+				position[]={3305.9866,29.482109,4415.7422};
 				angles[]={0,3.2317913,0};
 			};
 			side="Empty";
@@ -5391,7 +5391,7 @@ class Mission
 			};
 			id=16;
 			type="B_Plane_Fighter_01_Stealth_F";
-			atlOffset=49.807533;
+			atlOffset=0.48099709;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -5421,11 +5421,10 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={3287.9866,29.000759,4388.7422};
+				position[]={3287.9866,29.482111,4388.7422};
 				angles[]={0,3.1239474,0};
 			};
 			side="Empty";
-			flags=4;
 			class Attributes
 			{
 				reportRemoteTargets=1;
@@ -5435,6 +5434,7 @@ class Mission
 			};
 			id=19;
 			type="B_Plane_Fighter_01_Stealth_F";
+			atlOffset=0.48135185;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -8003,6 +8003,7 @@ class Mission
 					};
 					id=57;
 					type="B_Fighter_Pilot_F";
+					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -8051,6 +8052,7 @@ class Mission
 			{
 			};
 			id=56;
+			atlOffset=1.9073486e-006;
 		};
 		class Item43
 		{
@@ -8075,6 +8077,7 @@ class Mission
 					};
 					id=59;
 					type="B_Fighter_Pilot_F";
+					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -8123,6 +8126,7 @@ class Mission
 			{
 			};
 			id=58;
+			atlOffset=1.9073486e-006;
 		};
 		class Item44
 		{
@@ -8147,6 +8151,7 @@ class Mission
 					};
 					id=25;
 					type="B_T_ghillie_tna_F";
+					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -8206,6 +8211,7 @@ class Mission
 					};
 					id=48;
 					type="B_T_Spotter_F";
+					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -8254,6 +8260,7 @@ class Mission
 			{
 			};
 			id=68;
+			atlOffset=1.9073486e-006;
 		};
 		class Item45
 		{
@@ -9606,6 +9613,7 @@ class Mission
 					};
 					id=105;
 					type="B_T_Helipilot_F";
+					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -9654,6 +9662,7 @@ class Mission
 			{
 			};
 			id=104;
+			atlOffset=1.9073486e-006;
 		};
 		class Item61
 		{
@@ -9677,6 +9686,7 @@ class Mission
 					};
 					id=108;
 					type="B_T_Helipilot_F";
+					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -9725,6 +9735,7 @@ class Mission
 			{
 			};
 			id=107;
+			atlOffset=1.9073486e-006;
 		};
 		class Item62
 		{

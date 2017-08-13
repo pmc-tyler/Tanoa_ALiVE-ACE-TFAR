@@ -14,16 +14,15 @@ sleep 0.1;
 
 //add uniform
 _unit forceAddUniform "U_B_PilotCoveralls";
-_unit addBackpack "B_Parachute";
 _unit addHeadgear "H_PilotHelmetFighter_B";
+_unit addBackpack "B_Parachute";
+
 
 //add common items
 _unit linkItem "ItemMap";
 _unit linkItem "ItemCompass";
 _unit linkItem "ItemWatch";
 _unit linkItem "ItemGPS";
-_unit linkItem "NVGoggles";
-_unit addItem "ACRE_PRC343";
 _unit addItemToUniform "ACE_MapTools";
 _unit addItemToUniform "ACE_EarPlugs";
 
